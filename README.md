@@ -5,7 +5,7 @@ Algorithm adapted from the exercise found at [techiedelight.com](http://www.tech
 
 ## functions used in the algorithm ##
 
-###  research_pairs(givenList, maximum=0)###
+###  research_pairs(givenList, maximum=0) ###
 This function will first calculate the **maximum product** obtained from each **pairs** of numbers. It will then call the fonction **search_the_max_index** and it will show to terminal all the potential solutions.
 
 ### search_the_max_index(productList) ###
